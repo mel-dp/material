@@ -285,10 +285,10 @@ nav {
         width: 700px;
         margin-left: -350px;
         
-     max-width: 700px;
+    /* max-width: 700px;
     left: calc(50% - 349px);
     width: 700px;
-    margin-left: 0px;
+    margin-left: 0px; */
     }
     .scroll-1 .card .cover {
         width: 700px;
@@ -399,10 +399,10 @@ nav {
 
 @media (max-height: 667px) {
     .scroll-1 .card-content {
-      
+      height: 170px;
     }
     .scroll-1 .card .cover {
-     
+     height: 225px;
     }
 }
 
