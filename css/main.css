@@ -282,12 +282,10 @@ nav {
 
 @media only screen and (max-width: 992px)
     ul.side-nav a, ul.side-nav > li  {
-        color: white!important;
-        width: 100%!important;
+        color: white!important;       
      }
     ul.side-nav {
         background-color:rgba(0,0,0,0.8)!important;
-        width: 100%!important;
         top: 60px!important;
     }
 
