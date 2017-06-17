@@ -38,7 +38,7 @@ margin-left:25px;
     top: calc(50% - 225px);
 }
 
-.cover-text{
+> .cover-text{
     text-align: center;
     margin-left: 150px;
     margin-right: auto;
