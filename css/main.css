@@ -235,7 +235,14 @@ nav {
     opacity: 0.4;
 }
 
-
+.container-fluid.card.teal.z-depth-2.waves-effect.waves-light {
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    width: 90vw;
+    position: sticky;
+    flex-direction: column;
+}
 
 @media (min-width: 1600px) {
     .scroll-1 {
