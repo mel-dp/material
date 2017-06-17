@@ -39,8 +39,10 @@ margin-left:25px;
 }
 nav .nav-wrapper{
 overflow:hidden;
-background:#000;
-    
+background:#000!important;
+}
+nav .brand-logo{
+position:absolute;
 }
 .cyan{
 background-color:#000!important;
