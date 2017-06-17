@@ -1,8 +1,8 @@
 /**
  * Site header
  */
-.brand-logo{
-display:flex;
+nav .brand-logo{
+display:flex!important;
 }
 .site-header {
     border-top: 5px solid $grey-color-dark;
