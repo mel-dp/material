@@ -64,8 +64,8 @@ nav .brand-logo img{
     height: 250px;
 }
 .teal{
-/* background-color:#000!important;
-background-color:rgba(0,0,0,1)!important; */
+background-color:#000!important;
+background-color:rgba(0,0,0,1)!important;
 }
 .teal.lighten-5{
   /*  background-color: #296a52!important; */
