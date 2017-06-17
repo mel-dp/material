@@ -38,17 +38,7 @@ margin-left:25px;
     top: calc(50% - 225px);
 }
 
- .cover-text{
-    text-align: center;
-    margin-left: 150px;
-    margin-right: auto;
-    font-size: 3.5em!important;
-    overflow: hidden;
-    line-height: 1em!important;
-    text-overflow: clip;
-    width: calc(100% - 150px);
-    color: white!important;
-}
+
 .card-content.white-text {
     overflow-y: auto!important;
 }
@@ -228,13 +218,16 @@ nav {
 }
 
 .card .cover .cover-text{
+    max-width: 100%;
     text-align: center;
     margin-left: 150px;
     margin-right: auto;
-    font-size: 90px;
+    font-size: 3.5em!important;
     overflow: hidden;
-    text-overflow: clip; /*add max-width */
-    max-width: 100%;
+    line-height: 1em!important;
+    text-overflow: clip;
+    width: calc(100% - 150px);
+    color: white!important;
     
 }
 
@@ -401,6 +394,15 @@ nav {
     }
     .scroll-1 .card .cover {
         height: 100px;
+    }
+}
+
+@media (max-height: 320px) {
+    .scroll-1 .card-content {
+        height: 75px;
+    }
+    .scroll-1 .card .cover {
+        height: 75px;
     }
 }
 
