@@ -212,14 +212,14 @@ $(window).load(function () {
     }, 50);
 
     calcScrollr();
-  //  s = skrollr.init();
+    s = skrollr.init();
 
 
 });
 
 window.addEventListener('resize', function () {
     	console.log('resized');
-	//calcScrollr();
-    s = skrollr.init();
+	calcScrollr();
+    //s = skrollr.init();
 
 })
