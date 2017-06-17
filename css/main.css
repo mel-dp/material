@@ -26,6 +26,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: justify;
+    background-image: url(https://www.transparenttextures.com/patterns/dark-geometric.png);
 }
 
 .clamp-module {
