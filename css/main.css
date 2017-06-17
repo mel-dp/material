@@ -207,7 +207,7 @@ nav {
 
 .card .cover {
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left!important;
     background-size: cover;
     /*background-image: url("{{site.baseurl}}/img/1.jpg");*/
     transition: 0.3s all ease;
@@ -226,7 +226,7 @@ nav {
 }
 
 .card .cover:hover {
-    transform: scale(1.04);
+    transform: scale(.94);
 }
 
 .card .cover .filter {
