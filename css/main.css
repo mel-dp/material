@@ -68,9 +68,9 @@ background-color:#000!important;
 background-color:rgba(0,0,0,1)!important;
 }
 .teal.lighten-5{
-  /*  background-color: #296a52!important; */
+    background-color: #296a52!important; 
 }
-.teal-text.text-darken-3 {
+.teal-text.text-darken-3 {/*main text*/
  color: #f5f5f5!important;
  text-shadow: 1px 1px 7px black;
 }
