@@ -314,6 +314,9 @@ nav {
     .scroll-1 .card .cover {
         width: 450px;
     }
+    .card .cover .cover-text{
+    font-size:2em;
+    }
 }
 
 @media (max-width: 320px) {
@@ -323,6 +326,9 @@ nav {
     }
     .scroll-1 .card .cover {
         width: 300px;
+    }
+    .card .cover .cover-text{
+    font-size:1.7em;
     }
 }
 
@@ -393,6 +399,9 @@ nav {
     .scroll-1 .card .cover {
         height: 100px;
     }
+    .card .cover .cover-text{
+    font-size:2em;
+    }
 }
 
 @media (max-height: 320px) {
@@ -401,6 +410,9 @@ nav {
     }
     .scroll-1 .card .cover {
         height: 75px;
+    }
+    .card .cover .cover-text{
+    font-size:1.7em;
     }
 }
 
