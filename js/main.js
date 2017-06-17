@@ -155,7 +155,7 @@ $(function () {
                     $mainContent.fadeIn(1000);
 
 
-                    //calcScrollr();
+                    calcScrollr();
                     s = skrollr.init();
                     s.refresh();
 
