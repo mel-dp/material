@@ -38,10 +38,10 @@ margin-left:25px;
     top: calc(50% - 225px);
 }
 .card .cover .cover-text{
-font-weight:55px;
+font-size:55px!important;
 }
 .card-content.white-text {
-    overflow-y: auto;
+    overflow-y: auto!important;
 }
 nav .nav-wrapper{
 overflow:hidden;
