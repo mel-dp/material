@@ -155,9 +155,9 @@ $(function () {
                     $mainContent.fadeIn(1000);
 
 
-                    calcScrollr();
-                    s = skrollr.init();
-                    s.refresh();
+                  //  calcScrollr();
+                  //  s = skrollr.init();
+                   // s.refresh();
 
                     $('html, body').animate({
                         scrollTop: 10
@@ -219,8 +219,8 @@ $(window).load(function () {
 
 window.addEventListener('resize', function () {
     	console.log('resized');
-	calcScrollr();
-        s = skrollr.init();
-        s.refresh();
+//	calcScrollr();
+       // s = skrollr.init();
+       // s.refresh();
 
 })
