@@ -37,8 +37,11 @@ margin-left:25px;
     left: calc(50% - 125px);
     top: calc(50% - 225px);
 }
-.card-content{
-overflow-y:auto;
+.card .cover .cover-text{
+font-weight:55px;
+}
+.card-content.white-text {
+    overflow-y: auto;
 }
 nav .nav-wrapper{
 overflow:hidden;
