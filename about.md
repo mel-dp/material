@@ -17,6 +17,6 @@ She recently became hip and joined Twitter, so you can find her there, too.
 She loves connecting with her readers—they make her world go round'. 
 
 
-~Happy Reading~
+Happy Reading!
 
 Feel free to email her with any questions/comments: ashleyjadeauthor@gmail.com
