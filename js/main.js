@@ -178,11 +178,6 @@ $(function () {
 
 });
 
-window.addEventListener('resize', function () {
-  calcScrollr();
-    s = skrollr.init();
-
-})
 
 //scrolltotop1
 $(document).ready(function () {
@@ -221,3 +216,10 @@ $(window).load(function () {
 
 
 });
+
+window.addEventListener('resize', function () {
+    	console.log('resized');
+	calcScrollr();
+    s = skrollr.init();
+
+})
