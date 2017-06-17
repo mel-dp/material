@@ -44,6 +44,13 @@ background-color:#000!important;
 nav .brand-logo{
 position:absolute;
 }
+nav .brand-logo img{
+    max-height: 100%;
+    margin-left: -125px;
+    top: -15px;
+    position: relative;
+    height: 250px;
+}
 .cyan{
 background-color:#000!important;
 background-color:rgba(0,0,0,1)!important;
