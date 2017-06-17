@@ -317,6 +317,13 @@ nav {
     .card .cover .cover-text{
     font-size:2em;
     }
+    .mast h1 {
+    font-size: 40px;
+    line-height: 1em;
+    }
+    .cover span {
+    visibility: hidden;
+    }
 }
 
 @media (max-width: 320px) {
@@ -329,6 +336,13 @@ nav {
     }
     .card .cover .cover-text{
     font-size:1.7em;
+    }
+    .mast h1 {
+    font-size: 40px;
+    line-height: 1em;
+    }
+    .cover span {
+    visibility: hidden;
     }
 }
 
@@ -402,6 +416,13 @@ nav {
     .card .cover .cover-text{
     font-size:2em;
     }
+    .mast h1 {
+    font-size: 40px;
+    line-height: 1em;
+    }
+    .cover span {
+    visibility: hidden;
+    }
 }
 
 @media (max-height: 320px) {
@@ -413,6 +434,13 @@ nav {
     }
     .card .cover .cover-text{
     font-size:1.7em;
+    }
+    .mast h1 {
+    font-size: 40px;
+    line-height: 1em;
+    }
+    .cover span {
+    visibility: hidden;
     }
 }
 
