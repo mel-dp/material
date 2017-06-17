@@ -271,6 +271,11 @@ nav {
     .scroll-1 {
         width: 700px;
         margin-left: -350px;
+        
+     max-width: 700px;
+    left: calc(50% - 349px);
+    width: 700px;
+    margin-left: 0px;
     }
     .scroll-1 .card .cover {
         width: 700px;
