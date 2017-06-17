@@ -37,11 +37,12 @@ margin-left:25px;
     left: calc(50% - 125px);
     top: calc(50% - 225px);
 }
-.card .cover .cover-text{
-font-size:55px!important;
-}
+
 .card-content.white-text {
     overflow-y: auto!important;
+}
+.cover{
+    background-size: contain;
 }
 nav .nav-wrapper{
 overflow:hidden;
@@ -215,7 +216,7 @@ nav {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 150px;
+    font-size: 90px;
     overflow: hidden;
     text-overflow: clip; /*add max-width */
     max-width: 100%;
