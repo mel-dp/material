@@ -33,7 +33,7 @@ body {
 background-color:#111!important;
 background-color:rgba(0,0,0,,0.8)!important;
 }
-.container-fluid .cyan.lighten-5 {
+.cyan.lighten-5 h1,.cyan.lighten-5 h2,.cyan.lighten-5 h3,.cyan.lighten-5 h4,.cyan.lighten-5 h5,.cyan.lighten-5 h6,.cyan.lighten-5 p {
     background-color: #008092!important;
 }
 .cyan-text.text-darken-3 {
