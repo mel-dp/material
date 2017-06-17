@@ -296,9 +296,7 @@ nav {
 }
 
 @media (max-width: 767px) {
-    .waves-effect{
-   
-    }
+    
     .scroll-1 {
         width: 500px;
         margin-left: -250px;
