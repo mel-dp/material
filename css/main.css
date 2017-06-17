@@ -315,14 +315,17 @@ nav {
         width: 450px;
     }
     .card .cover .cover-text{
-    font-size:2em;
+    font-size:2em!important;
     }
     .mast h1 {
-    font-size: 40px;
-    line-height: 1em;
+    font-size: 40px!important;
+    line-height: 1em!important;
     }
     .cover span {
     visibility: hidden;
+    }
+     h4 {
+    font-size: 1.5rem!important;
     }
 }
 
@@ -335,14 +338,17 @@ nav {
         width: 300px;
     }
     .card .cover .cover-text{
-    font-size:1.7em;
+    font-size:1.7em!important;
     }
     .mast h1 {
-    font-size: 40px;
-    line-height: 1em;
+    font-size: 40px!important;
+    line-height: 1em!important;
     }
     .cover span {
     visibility: hidden;
+    }
+     h4 {
+    font-size: 1.5rem!important;
     }
 }
 
@@ -417,11 +423,14 @@ nav {
     font-size:2em;
     }
     .mast h1 {
-    font-size: 40px;
-    line-height: 1em;
+    font-size: 40px!important;
+    line-height: 1em!important;
     }
     .cover span {
     visibility: hidden;
+    }
+     h4 {
+   font-size: 1.5rem!important;
     }
 }
 
@@ -433,14 +442,17 @@ nav {
         height: 75px;
     }
     .card .cover .cover-text{
-    font-size:1.7em;
+    font-size:1.7em!important;
     }
     .mast h1 {
-    font-size: 40px;
-    line-height: 1em;
+    font-size: 40px!important;
+    line-height: 1em!important;
     }
     .cover span {
     visibility: hidden;
+    }
+    h4 {
+    font-size: 1.5rem!important;
     }
 }
 
