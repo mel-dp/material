@@ -56,6 +56,8 @@ margin-left:25px;
     background-size: contain!important;
     background-repeat: no-repeat;
     backgroun-position:left;
+    width: 100%!important;
+    text-align: center;
 }
 nav .nav-wrapper{
 overflow:hidden;
