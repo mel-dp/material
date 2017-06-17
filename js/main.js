@@ -211,8 +211,8 @@ $(window).load(function () {
         scrollTop: 10
     }, 50);
 
-    calcScrollr();
-    s = skrollr.init();
+   // calcScrollr();
+   // s = skrollr.init();
 
 
 });
