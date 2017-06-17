@@ -296,6 +296,18 @@ nav {
         width: 450px;
     }
 }
+
+@media (max-width: 320px) {
+    .scroll-1 {
+        width: 300px;
+        margin-left: -150px;
+    }
+    .scroll-1 .card .cover {
+        width: 300px;
+    }
+}
+
+
 /*HEIGHT*/
 
 @media (min-height: 1600px) {
