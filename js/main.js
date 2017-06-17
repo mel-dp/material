@@ -181,6 +181,10 @@ $(function () {
 
 //scrolltotop1
 $(document).ready(function () {
+	
+	 calcScrollr();
+    	s = skrollr.init();
+	
     $(window).scroll(function () {
         if ($(this).scrollTop() > 100) {
             $('.scrollToTop').fadeIn();
