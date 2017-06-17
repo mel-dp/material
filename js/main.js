@@ -178,7 +178,10 @@ $(function () {
 
 });
 
-
+$(window).resize(function () {
+  calcScrollr();
+    s = skrollr.init();
+});
 //scrolltotop1
 $(document).ready(function () {
     $(window).scroll(function () {
