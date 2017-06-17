@@ -29,9 +29,16 @@ body {
     background-color:#222!important;
     background-image: url(https://www.transparenttextures.com/patterns/gplay.png)!important;
 }
+nav a.button-collapse{
+margin-left:25px;
+}
+nav .nav-wrapper{
+overflow:hidden;
+    
+}
 .cyan{
-background-color:#111!important;
-background-color:rgba(0,0,0,,0.8)!important;
+background-color:#000!important;
+background-color:rgba(0,0,0,1)!important;
 }
 .cyan.lighten-5{
     background-color: #008092!important;
@@ -95,6 +102,18 @@ nav {
 }
 
 .xpretext {
+    width: 800px;
+    height: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.xpretext-name {
     width: 800px;
     height: 5px;
     position: absolute;
