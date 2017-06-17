@@ -27,7 +27,11 @@ body {
     padding: 0;
     text-align: justify;
     background-color:#222!important;
-    background-image: url(https://www.transparenttextures.com/patterns/dark-geometric.png);
+    background-image: url(https://www.transparenttextures.com/patterns/dark-geometric.png)!important;
+}
+.cyan{
+background:color:#111!important;
+background:color:rgba(0,0,0,,0.8)!important;
 }
 
 .clamp-module {
