@@ -399,32 +399,32 @@ nav {
 
 @media (max-height: 667px) {
     .scroll-1 .card-content {
-        height: 140px;
+      
     }
     .scroll-1 .card .cover {
-        height: 190px;
+     
     }
 }
 
 @media (max-height: 567px) {
     .scroll-1 .card-content {
-        height: 120px;
+        
     }
     .scroll-1 .card .cover {
-        height: 140px;
+       
     }
 }
 /* Landscape phones and down */
 
 @media (max-height: 480px) {
     .scroll-1 .card-content {
-        height: 100px;
+       
     }
     .scroll-1 .card .cover {
-        height: 100px;
+        
     }
     .card .cover .cover-text{
-    font-size:2em;
+    font-size:2em!important;
     }
     .mast h1 {
     font-size: 40px!important;
@@ -440,10 +440,10 @@ nav {
 
 @media (max-height: 320px) {
     .scroll-1 .card-content {
-        height: 75px;
+       
     }
     .scroll-1 .card .cover {
-        height: 75px;
+      
     }
     .card .cover .cover-text{
     font-size:1.7em!important;
