@@ -26,7 +26,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: justify;
-    background:#222;
+    background:#222!importnat;
     background-image: url(https://www.transparenttextures.com/patterns/dark-geometric.png);
 }
 
