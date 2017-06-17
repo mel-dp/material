@@ -38,6 +38,17 @@ margin-left:25px;
     top: calc(50% - 225px);
 }
 
+.cover-text{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: auto;
+    font-size: 3.5em;
+    overflow: hidden;
+    line-height: 1em;
+    text-overflow: clip;
+    width: calc(100% - 150px);
+    color: white!important;
+}
 .card-content.white-text {
     overflow-y: auto!important;
 }
