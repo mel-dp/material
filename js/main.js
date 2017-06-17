@@ -219,8 +219,8 @@ $(window).load(function () {
 
 window.addEventListener('resize', function () {
     	console.log('resized');
-//	calcScrollr();
-       // s = skrollr.init();
-       // s.refresh();
+	calcScrollr();
+        s = skrollr.init();
+        s.refresh();
 
 })
