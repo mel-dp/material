@@ -32,9 +32,9 @@ baseurl: "/material" # the subpath of your site, e.g. /blog/
 url: "http://mel-dp.github.io/material" # the base hostname & protocol for your site
 twitter_username: ashleyjadeauthor
 github_username:  none
-css: "darkgreen"
-scroll-cursor: "#00BCD4"
-scroll-rail: "#0097A7"
+css: "red"
+scroll-cursor: "#348775"
+scroll-rail: "#296a52"
 
 # Build settings
 markdown: kramdown
