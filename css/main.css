@@ -37,6 +37,9 @@ margin-left:25px;
     left: calc(50% - 125px);
     top: calc(50% - 225px);
 }
+.card-content{
+overflow-y:auto;
+}
 nav .nav-wrapper{
 overflow:hidden;
 background-color:#000!important;
